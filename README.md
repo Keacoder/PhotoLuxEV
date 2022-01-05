@@ -1,6 +1,7 @@
 # PhotoLuxEV
 Empty Project
 
-A simple android app for user to input Lux reading measured by lower cost light meters.
-Then convert the Lux value to photography exposure value (EV).
-Translate exposure value into exposure triangle suggestions.
+A simple android app where a user can input Lux value measured by lower cost light meters.
+The app then converts the Lux value to an exposure value (EV) useful in photography.
+
+Future feature: To be able to translate exposure value into exposure triangle suggestions.
