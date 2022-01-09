@@ -10,7 +10,7 @@ Hi there! We're thrilled that you'd like to contribute to this project. Your hel
 
 Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
 
-## Contributions Welcomed ##
+## Contributions Welcome ##
 
 0. Improving documentation
 0. Submitting bug reports
