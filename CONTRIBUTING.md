@@ -15,7 +15,7 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 0. Improving documentation
 0. Submitting bug reports
 0. Feature requests
-0. Writing code
+0. Writing code [Kotlin](https://kotlinlang.org/)
 
 ## Resources
 
