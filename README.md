@@ -11,6 +11,6 @@ Future feature: To be able to translate exposure value into exposure triangle su
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details
 
 If you have any questions contact Keacoder at keacoder@protonmail.com.
