@@ -5,4 +5,8 @@ The app then converts the Lux value to an exposure value (EV) useful in photogra
 
 Future feature: To be able to translate exposure value into exposure triangle suggestions.
 
+## Author/s
+
+* **Keacoder** - *Initial work* - [Keacoder](https://github.com/Keacoder)
+
 If you have any questions contact Keacoder at keacoder@protonmail.com.
