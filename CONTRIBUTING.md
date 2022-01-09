@@ -1,9 +1,7 @@
 ## Contributing
 
-[fork]: https://docs.github.com/en/get-started/quickstart/fork-a-repo
-[pr]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
-[style]: STYLEGUIDE
 [code-of-conduct]: CODE_OF_CONDUCT.md
+[Kotlin](https://kotlinlang.org/)
 [style guide]: https://developer.android.com/kotlin/style-guide
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
@@ -15,7 +13,7 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 0. Improving documentation
 0. Submitting bug reports
 0. Feature requests
-0. Writing code [Kotlin](https://kotlinlang.org/)
+0. Writing code [Kotlin]
 
 ## Resources
 
