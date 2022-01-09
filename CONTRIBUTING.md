@@ -1,7 +1,7 @@
 ## Contributing
 
 [code-of-conduct]: CODE_OF_CONDUCT.md
-[Kotlin](https://kotlinlang.org/)
+[Kotlin]: https://kotlinlang.org/
 [style guide]: https://developer.android.com/kotlin/style-guide
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
