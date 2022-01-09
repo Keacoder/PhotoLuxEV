@@ -5,6 +5,11 @@ The app then converts the Lux value to an exposure value (EV) useful in photogra
 
 Future feature: To be able to translate exposure value into exposure triangle suggestions.
 
+## Built With
+
+* [Android Studio](https://developer.android.com/studio) - The IDE
+* [Kotlin](https://kotlinlang.org/) - The programming langauge
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/Keacoder/PhotoLuxEV/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
