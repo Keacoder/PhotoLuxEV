@@ -10,11 +10,11 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 
 ## Contributions Welcome ##
 
-0. Improving documentation
-0. Submitting bug reports
-0. Feature requests
-0. Writing code [Kotlin] & [style guide]
-0. Testing
+1. Improving documentation
+2. Submitting bug reports
+3. Feature requests
+4. Testing
+5. Writing code [Kotlin] & [style guide]
 
 ## Resources
 
