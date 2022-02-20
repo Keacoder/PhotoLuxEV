@@ -4,5 +4,4 @@
     <string name="Input_lux_value_edit_text">Lux Value</string>
     <string name="lux_convert_button">Convert</string>
     <string name="label_exposure_value_text_view">Exposure Value</string>
-    <string name="Output_exposure_value_text_view">Output EV</string>
 </resources>

@@ -24,19 +24,20 @@
         android:layout_width="116dp"
         android:layout_height="49dp"
         android:layout_marginTop="20dp"
+        android:autofillHints=""
         android:ems="10"
         android:gravity="center"
         android:hint="@string/Input_lux_value_edit_text"
-        android:autofillHints=""
         android:importantForAutofill="no"
-        tools:targetApi="o"
         android:inputType="numberDecimal"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColorHint="#78909C"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/lux_convert_button" />
+        app:layout_constraintTop_toBottomOf="@+id/lux_convert_button"
+        tools:targetApi="o" />
 
     <Button
         android:id="@+id/lux_convert_button"
@@ -73,8 +74,8 @@
         android:layout_height="56dp"
         android:layout_marginTop="20dp"
         android:gravity="center"
-        android:hint="@string/Output_exposure_value_text_view"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColorHint="#78909C"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
