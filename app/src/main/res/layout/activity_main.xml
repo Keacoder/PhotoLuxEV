@@ -7,24 +7,32 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/label_input_lv_textView"
-        android:layout_width="163dp"
-        android:layout_height="25dp"
-        android:layout_marginTop="148dp"
-        android:text="Please input a Lux value"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:id="@+id/label_input_lx_text_view"
+        android:layout_width="210dp"
+        android:layout_height="67dp"
+        android:layout_marginTop="128dp"
+        android:gravity="center"
+        android:text="@string/label_input_lx_text_view"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/lux_input_number_decimal"
-        android:layout_width="130dp"
-        android:layout_height="50dp"
+        android:id="@+id/Input_lux_value_edit_text"
+        android:layout_width="116dp"
+        android:layout_height="49dp"
         android:layout_marginTop="20dp"
         android:ems="10"
-        android:hint="Your Lux value"
+        android:gravity="center"
+        android:hint="@string/Input_lux_value_edit_text"
+        android:autofillHints=""
+        android:importantForAutofill="no"
+        tools:targetApi="o"
         android:inputType="numberDecimal"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
@@ -35,33 +43,41 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Convert Lux"
-        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:backgroundTint="#FF3700B3"
+        android:gravity="center"
+        android:text="@string/lux_convert_button"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/label_input_lv_textView" />
+        app:layout_constraintTop_toBottomOf="@+id/label_input_lx_text_view" />
 
     <TextView
-        android:id="@+id/label_exposure_value_textView"
-        android:layout_width="104dp"
-        android:layout_height="30dp"
+        android:id="@+id/label_exposure_value_text_view"
+        android:layout_width="203dp"
+        android:layout_height="43dp"
         android:layout_marginTop="20dp"
-        android:text="Exposure Value"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:gravity="center"
+        android:text="@string/label_exposure_value_text_view"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/lux_input_number_decimal" />
+        app:layout_constraintTop_toBottomOf="@+id/Input_lux_value_edit_text" />
 
     <TextView
-        android:id="@+id/exposure_value_textView"
-        android:layout_width="83dp"
-        android:layout_height="22dp"
+        android:id="@+id/Output_exposure_value_text_view"
+        android:layout_width="116dp"
+        android:layout_height="56dp"
         android:layout_marginTop="20dp"
-        android:text="Placeholder"
+        android:gravity="center"
+        android:hint="@string/Output_exposure_value_text_view"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/label_exposure_value_textView" />
+        app:layout_constraintTop_toBottomOf="@+id/label_exposure_value_text_view" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
